@@ -1,0 +1,389 @@
+{
+    "fruits":  [
+      {
+        "name": "Apple",
+        "type": "Pome",
+        "color": "Red",
+        "healthBenefit": "Rich in fiber and vitamin C.",
+        "imageUrl": "https://cdn.britannica.com/22/187222-050-07B17FB6/apples-on-a-tree-branch.jpg",
+        "price": 1.2,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Banana",
+        "type": "Berry",
+        "color": "Yellow",
+        "healthBenefit": "High in potassium and vitamin B6.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9OvXyIbKSL2DAUf8HgJgeWL4WtcLC_I627A&s",
+        "price": 0.5,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Cherry",
+        "type": "Drupe",
+        "color": "Red",
+        "healthBenefit": "Rich in antioxidants and anti-inflammatory properties.",
+        "imageUrl": "https://st.depositphotos.com/1258245/2799/i/450/depositphotos_27991923-stock-photo-cherru-fruit.jpg",
+        "price": 3.0,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Date",
+        "type": "Drupe",
+        "color": "Brown",
+        "healthBenefit": "High in fiber and rich in various vitamins and minerals.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWxOac8V5aJHQhmwBu3eEi7DBMk5rE4zMGFA&s",
+        "price": 2.5,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Grapes",
+        "type": "Berry",
+        "color": "Green/Purple",
+        "healthBenefit": "Good for heart health and rich in antioxidants.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaMCS1UcsPsoMrrQ4m2ZNEShAQYxSeCxST9A&s",
+        "price": 2.0,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Kiwi",
+        "type": "Berry",
+        "color": "Brown",
+        "healthBenefit": "High in vitamin C and dietary fiber.",
+        "imageUrl": "https://cdn.britannica.com/45/126445-050-4C0FA9F6/Kiwi-fruit.jpg",
+        "price": 1.5,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Lemon",
+        "type": "Berry",
+        "color": "Yellow",
+        "healthBenefit": "High in vitamin C and aids digestion.",
+        "imageUrl": "https://www.freshpoint.com/wp-content/uploads/commodity-lemon.jpg",
+        "price": 0.7,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Mango",
+        "type": "Drupe",
+        "color": "Orange",
+        "healthBenefit": "Rich in vitamins A and C.",
+        "imageUrl": "https://static.toiimg.com/thumb/msid-110013129,width-1280,height-720,resizemode-4/110013129.jpg",
+        "price": 1.0,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Orange",
+        "type": "Citrus",
+        "color": "Orange",
+        "healthBenefit": "High in vitamin C and good for skin health.",
+        "imageUrl": "https://www.allrecipes.com/thmb/y_uvjwXWAuD6T0RxaS19jFvZyFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1205638014-2000-d0fbf9170f2d43eeb046f56eec65319c.jpg",
+        "price": 0.8,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Papaya",
+        "type": "Berry",
+        "color": "Orange",
+        "healthBenefit": "Good for digestion and rich in vitamin C.",
+        "imageUrl": "https://nativeindianorganics.com/wp-content/uploads/2023/04/papaya-seeds-online-india.jpg",
+        "price": 1.5,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Peach",
+        "type": "Drupe",
+        "color": "Pink",
+        "healthBenefit": "Rich in vitamins A and C, and helps in digestion.",
+        "imageUrl": "https://cdn-prod.medicalnewstoday.com/content/images/articles/274/274620/peaches-in-baskets-on-a-wooden-table.jpg",
+        "price": 1.2,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Pear",
+        "type": "Pome",
+        "color": "Green/Yellow",
+        "healthBenefit": "High in fiber and vitamin C.",
+        "imageUrl": "https://cdn.policyx.com/cms-media/benefits-of-pear-fruit-main-banner-1340-1721389325.webp",
+        "price": 1.0,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Pineapple",
+        "type": "Berry",
+        "color": "Yellow",
+        "healthBenefit": "Rich in bromelain and vitamin C.",
+        "imageUrl": "https://m.media-amazon.com/images/I/71bNsWlkyeL.jpg",
+        "price": 3.0,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Raspberry",
+        "type": "Aggregate",
+        "color": "Red",
+        "healthBenefit": "High in fiber and antioxidants.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmHIY32y4xgbdmgCnKmHi-87DYwiGZnpDyqB4cS51F_W8eMrlvWJ1A_t2VXJ6sgmB2eUA&usqp=CAU",
+        "price": 4.0,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Strawberry",
+        "type": "Aggregate",
+        "color": "Red",
+        "healthBenefit": "High in vitamin C and antioxidants.",
+        "imageUrl": "https://www.health.com/thmb/zvfL1rCWAPg3XzidfAqURuCmttk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Strawberries-c5f434e7729e47c5b32c0deaa029386c.jpg",
+        "price": 3.5,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Watermelon",
+        "type": "Berry",
+        "color": "Green/Red",
+        "healthBenefit": "Hydrating and low in calories.",
+        "imageUrl": "https://www.watermelon.org/wp-content/uploads/2020/07/Seeded-Wedge-scaled.jpg",
+        "price": 0.6,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Blueberry",
+        "type": "Berry",
+        "color": "Blue",
+        "healthBenefit": "Rich in antioxidants and vitamins.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5F0PhJ3ebNpLGqOutpryTiZVwNdR_Rj5sbA&s",
+        "price": 4.5,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Blackberry",
+        "type": "Aggregate",
+        "color": "Black",
+        "healthBenefit": "High in vitamins C and K.",
+        "imageUrl": "https://m.media-amazon.com/images/I/71WLUP8uCgL.jpg",
+        "price": 4.0,
+        "currency": "USD",
+        "status": "Available"
+      },
+      {
+        "name": "Coconut",
+        "type": "Drupe",
+        "color": "Brown",
+        "healthBenefit": "Good for hydration and contains healthy fats.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH6g4TfIU-1UtYwerPzs05E-Cuatgsb8hEIg&s",
+        "price": 1.8,
+        "currency": "USD",
+        "status": "Available"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Fresh Fruits Co.",
+        "sinceWhen": "2010",
+        "contactNo": "123-456-7890",
+        "contactPerson": "John Doe",
+        "city": "New York",
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "suppFruits": [
+          { "name": "Apple", "quantity": 150 },
+          { "name": "Banana", "quantity": 200 }
+        ]
+      },
+      {
+        "name": "Tropical Delights",
+        "sinceWhen": "2015",
+        "contactNo": "098-765-4321",
+        "contactPerson": "Jane Smith",
+        "city": "Miami",
+        "latitude": 25.7617,
+        "longitude": -80.1918,
+        "suppFruits": [
+          { "name": "Pineapple", "quantity": 100 },
+          { "name": "Mango", "quantity": 80 }
+        ]
+      },
+      {
+        "name": "Berry Best",
+        "sinceWhen": "2012",
+        "contactNo": "555-555-5555",
+        "contactPerson": "Alice Johnson",
+        "city": "Seattle",
+        "latitude": 47.6062,
+        "longitude": -122.3321,
+        "suppFruits": [
+          { "name": "Strawberry", "quantity": 120 },
+          { "name": "Blueberry", "quantity": 90 }
+        ]
+      },
+      {
+        "name": "Citrus Haven",
+        "sinceWhen": "2008",
+        "contactNo": "444-444-4444",
+        "contactPerson": "Bob Brown",
+        "city": "Los Angeles",
+        "latitude": 34.0522,
+        "longitude": -118.2437,
+        "suppFruits": [
+          { "name": "Orange", "quantity": 140 },
+          { "name": "Lemon", "quantity": 60 }
+        ]
+      },
+      {
+        "name": "Harvest Fruits",
+        "sinceWhen": "2018",
+        "contactNo": "333-333-3333",
+        "contactPerson": "Eve Davis",
+        "city": "Chicago",
+        "latitude": 41.8781,
+        "longitude": -87.6298,
+        "suppFruits": [
+          { "name": "Grapes", "quantity": 110 },
+          { "name": "Peach", "quantity": 75 }
+        ]
+      },
+      {
+        "name": "Nature's Bounty",
+        "sinceWhen": "2016",
+        "contactNo": "222-222-2222",
+        "contactPerson": "Frank Wilson",
+        "city": "Houston",
+        "latitude": 29.7604,
+        "longitude": -95.3698,
+        "suppFruits": [
+          { "name": "Watermelon", "quantity": 130 },
+          { "name": "Kiwi", "quantity": 60 }
+        ]
+      },
+      {
+        "name": "Farm Fresh",
+        "sinceWhen": "2020",
+        "contactNo": "111-111-1111",
+        "contactPerson": "Grace Lee",
+        "city": "Atlanta",
+        "latitude": 33.7490,
+        "longitude": -84.3880,
+        "suppFruits": [
+          { "name": "Apple", "quantity": 150 },
+          { "name": "Banana", "quantity": 100 }
+        ]
+      },
+      {
+        "name": "Fruity Fiesta",
+        "sinceWhen": "2019",
+        "contactNo": "666-666-6666",
+        "contactPerson": "Henry Scott",
+        "city": "Phoenix",
+        "latitude": 33.4484,
+        "longitude": -112.0740,
+        "suppFruits": [
+          { "name": "Mango", "quantity": 90 },
+          { "name": "Pineapple", "quantity": 70 }
+        ]
+      },
+      {
+        "name": "Exotic Fruits",
+        "sinceWhen": "2021",
+        "contactNo": "777-777-7777",
+        "contactPerson": "Ivy Green",
+        "city": "San Diego",
+        "latitude": 32.7157,
+        "longitude": -117.1611,
+        "suppFruits": [
+          { "name": "Dragonfruit", "quantity": 50 },
+          { "name": "Papaya", "quantity": 40 }
+        ]
+      },
+      {
+        "name": "Organic Orchard",
+        "sinceWhen": "2023",
+        "contactNo": "888-888-8888",
+        "contactPerson": "Jake White",
+        "city": "Denver",
+        "latitude": 39.7392,
+        "longitude": -104.9903,
+        "suppFruits": [
+          { "name": "Apple", "quantity": 120 },
+          { "name": "Grapes", "quantity": 60 }
+        ]
+      }
+    ],
+    "cities": [
+      {
+        "name": "New York",
+        "famousFor": "Statue of Liberty",
+        "type": "Metropolitan",
+        "anotherName": "The Big Apple"
+      },
+      {
+        "name": "Miami",
+        "famousFor": "Beaches",
+        "type": "Coastal",
+        "anotherName": "Magic City"
+      },
+      {
+        "name": "Seattle",
+        "famousFor": "Coffee Culture",
+        "type": "Urban",
+        "anotherName": "Emerald City"
+      },
+      {
+        "name": "Los Angeles",
+        "famousFor": "Hollywood",
+        "type": "Metropolitan",
+        "anotherName": "City of Angels"
+      },
+      {
+        "name": "Chicago",
+        "famousFor": "Deep-Dish Pizza",
+        "type": "Urban",
+        "anotherName": "Windy City"
+      },
+      {
+        "name": "Houston",
+        "famousFor": "Space Center",
+        "type": "Urban",
+        "anotherName": "Space City"
+      },
+      {
+        "name": "Atlanta",
+        "famousFor": "Southern Hospitality",
+        "type": "Metropolitan",
+        "anotherName": "Hotlanta"
+      },
+      {
+        "name": "Phoenix",
+        "famousFor": "Desert Climate",
+        "type": "Urban",
+        "anotherName": "Valley of the Sun"
+      },
+      {
+        "name": "San Diego",
+        "famousFor": "Beautiful Beaches",
+        "type": "Coastal",
+        "anotherName": "America's Finest City"
+      },
+      {
+        "name": "Denver",
+        "famousFor": "Rocky Mountains",
+        "type": "Urban",
+        "anotherName": "Mile High City"
+      }
+    ]
+  }
+  

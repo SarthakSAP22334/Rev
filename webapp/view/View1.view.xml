@@ -1,0 +1,24 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="mawai.ui5.four.controller.View1">
+    <Page title="Shopping List" >
+        <!-- <headerContent>
+            <Button icon="https://example.com/icon.png" press="onClick"></Button>
+        </headerContent> -->
+        <content>
+            <SearchField placeholder="Enter the fruit's name" liveChange="onSearch" width="80%"></SearchField>
+            <List id="idMyList" mode="SingleSelectMaster" delete="onItemDelete" selectionChange="onItemSelect" 
+            items="{/fruits}">
+                <headerToolbar>
+                    <Toolbar>
+                        <ToolbarSpacer />
+                        <Button icon="sap-icon://delete" press="onItemsDelete" tooltip="Delete Selected Item"/>
+                    </Toolbar>
+                </headerToolbar>            
+                <ObjectListItem type="Active" title="{name}" number="{price}" icon="{imageUrl}" intro="{type}" numberUnit="{currency}">
+                <firstStatus>
+                        <ObjectStatus text="{status}" state="{path: 'status', formatter: '.formatter.getStatus'}"></ObjectStatus>
+                    </firstStatus>
+                </ObjectListItem>
+            </List>
+        </content>
+    </Page>
+</mvc:View>

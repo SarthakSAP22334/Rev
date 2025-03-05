@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <script src="https://ui5.sap.com/resources/sap-ui-core.js"
+    data-sap-ui-libs="sap.m"
+    data-sap-ui-theme="sap_belize"
+    data-sap-ui-resourceroots= '{
+    "mawai.ui5.four":"./"
+    }'
+    data-sap-ui-bindingSyntax="complex"
+    ></script>
+    <script>
+      var oComp = new sap.ui.core.ComponentContainer({
+        name: "mawai.ui5.four"
+      });
+      oComp.placeAt("content")
+
+    </script>    
+</head>
+<body class="sapuibody">
+    <div id="content"></div>
+</body>
+</html>

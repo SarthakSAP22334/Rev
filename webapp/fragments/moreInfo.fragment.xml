@@ -1,0 +1,14 @@
+<core:FragmentDefinition xmlns:core="sap.ui.core" xmlns="sap.m" xmlns:f="sap.ui.layout.form">
+     <f:SimpleForm  layout="ResponsiveGridLayout">
+        <f:content>
+            <Label text="Fruit Name"/>
+            <Text text="{name}"/>
+            <Label text="Color"/>
+            <Text text="{color}"/>
+            <Label text="Price"/>
+            <Text text="{price} {currency}"/>
+            <Label text="Is Available"/>
+            <Text text="{status}"/>
+        </f:content>
+    </f:SimpleForm>
+</core:FragmentDefinition>

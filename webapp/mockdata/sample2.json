@@ -1,0 +1,224 @@
+{
+  "employees": [
+    {
+      "employeeId": "E021",
+      "employeeName": "Ava Carter",
+      "department": "Research & Development",
+      "salary": 95000,
+      "age": 40,
+      "email": "ava.carter@example.com",
+      "phone": "555-1230",
+      "hireDate": "2016-09-25",
+      "imageUrl": "https://example.com/images/ava.jpg"
+    },
+    {
+      "employeeId": "E022",
+      "employeeName": "Liam Adams",
+      "department": "Finance",
+      "salary": 87000,
+      "age": 32,
+      "email": "liam.adams@example.com",
+      "phone": "555-4561",
+      "hireDate": "2019-05-18",
+      "imageUrl": "https://example.com/images/liam.jpg"
+    },
+    {
+      "employeeId": "E023",
+      "employeeName": "Sophia Lee",
+      "department": "IT",
+      "salary": 92000,
+      "age": 29,
+      "email": "sophia.lee@example.com",
+      "phone": "555-7892",
+      "hireDate": "2018-01-10",
+      "imageUrl": "https://example.com/images/sophia_lee.jpg"
+    },
+    {
+      "employeeId": "E024",
+      "employeeName": "Noah Harris",
+      "department": "Sales",
+      "salary": 64000,
+      "age": 28,
+      "email": "noah.harris@example.com",
+      "phone": "555-2343",
+      "hireDate": "2020-03-22",
+      "imageUrl": "https://example.com/images/noah.jpg"
+    },
+    {
+      "employeeId": "E025",
+      "employeeName": "Isabella Scott",
+      "department": "Marketing",
+      "salary": 78000,
+      "age": 35,
+      "email": "isabella.scott@example.com",
+      "phone": "555-6784",
+      "hireDate": "2017-11-14",
+      "imageUrl": "https://example.com/images/isabella.jpg"
+    },
+    {
+      "employeeId": "E026",
+      "employeeName": "Mason Turner",
+      "department": "Human Resources",
+      "salary": 58000,
+      "age": 26,
+      "email": "mason.turner@example.com",
+      "phone": "555-3215",
+      "hireDate": "2021-04-05",
+      "imageUrl": "https://example.com/images/mason.jpg"
+    },
+    {
+      "employeeId": "E027",
+      "employeeName": "Charlotte Johnson",
+      "department": "Finance",
+      "salary": 82000,
+      "age": 37,
+      "email": "charlotte.johnson@example.com",
+      "phone": "555-6546",
+      "hireDate": "2015-06-12",
+      "imageUrl": "https://example.com/images/charlotte.jpg"
+    },
+    {
+      "employeeId": "E028",
+      "employeeName": "Elijah Thompson",
+      "department": "IT",
+      "salary": 96000,
+      "age": 42,
+      "email": "elijah.thompson@example.com",
+      "phone": "555-9877",
+      "hireDate": "2014-03-09",
+      "imageUrl": "https://example.com/images/elijah.jpg"
+    },
+    {
+      "employeeId": "E029",
+      "employeeName": "Amelia Garcia",
+      "department": "Sales",
+      "salary": 66000,
+      "age": 30,
+      "email": "amelia.garcia@example.com",
+      "phone": "555-4328",
+      "hireDate": "2019-07-11",
+      "imageUrl": "https://example.com/images/amelia.jpg"
+    },
+    {
+      "employeeId": "E030",
+      "employeeName": "James Rodriguez",
+      "department": "Marketing",
+      "salary": 73000,
+      "age": 33,
+      "email": "james.rodriguez@example.com",
+      "phone": "555-8769",
+      "hireDate": "2016-08-20",
+      "imageUrl": "https://example.com/images/james_rodriguez.jpg"
+    },
+    {
+      "employeeId": "E031",
+      "employeeName": "Evelyn Martin",
+      "department": "Research & Development",
+      "salary": 88000,
+      "age": 38,
+      "email": "evelyn.martin@example.com",
+      "phone": "555-3450",
+      "hireDate": "2015-01-30",
+      "imageUrl": "https://example.com/images/evelyn.jpg"
+    },
+    {
+      "employeeId": "E032",
+      "employeeName": "Aiden Lee",
+      "department": "IT",
+      "salary": 91000,
+      "age": 36,
+      "email": "aiden.lee@example.com",
+      "phone": "555-2221",
+      "hireDate": "2017-12-15",
+      "imageUrl": "https://example.com/images/aiden.jpg"
+    },
+    {
+      "employeeId": "E033",
+      "employeeName": "Scarlett Walker",
+      "department": "Finance",
+      "salary": 65000,
+      "age": 27,
+      "email": "scarlett.walker@example.com",
+      "phone": "555-1112",
+      "hireDate": "2021-06-07",
+      "imageUrl": "https://example.com/images/scarlett.jpg"
+    },
+    {
+      "employeeId": "E034",
+      "employeeName": "Lucas Hall",
+      "department": "Sales",
+      "salary": 60000,
+      "age": 29,
+      "email": "lucas.hall@example.com",
+      "phone": "555-3334",
+      "hireDate": "2019-10-18",
+      "imageUrl": "https://example.com/images/lucas.jpg"
+    },
+    {
+      "employeeId": "E035",
+      "employeeName": "Grace King",
+      "department": "Marketing",
+      "salary": 77000,
+      "age": 31,
+      "email": "grace.king@example.com",
+      "phone": "555-5556",
+      "hireDate": "2018-02-28",
+      "imageUrl": "https://example.com/images/grace.jpg"
+    },
+    {
+      "employeeId": "E036",
+      "employeeName": "Henry Scott",
+      "department": "Human Resources",
+      "salary": 64000,
+      "age": 28,
+      "email": "henry.scott@example.com",
+      "phone": "555-8887",
+      "hireDate": "2020-11-19",
+      "imageUrl": "https://example.com/images/henry.jpg"
+    },
+    {
+      "employeeId": "E037",
+      "employeeName": "Ella Young",
+      "department": "Research & Development",
+      "salary": 79000,
+      "age": 34,
+      "email": "ella.young@example.com",
+      "phone": "555-7778",
+      "hireDate": "2016-05-29",
+      "imageUrl": "https://example.com/images/ella.jpg"
+    },
+    {
+      "employeeId": "E038",
+      "employeeName": "Mia Martinez",
+      "department": "IT",
+      "salary": 82000,
+      "age": 39,
+      "email": "mia.martinez@example.com",
+      "phone": "555-4449",
+      "hireDate": "2014-02-14",
+      "imageUrl": "https://example.com/images/mia.jpg"
+    },
+    {
+      "employeeId": "E039",
+      "employeeName": "Oliver Davis",
+      "department": "Sales",
+      "salary": 67000,
+      "age": 30,
+      "email": "oliver.davis@example.com",
+      "phone": "555-9990",
+      "hireDate": "2018-09-30",
+      "imageUrl": "https://example.com/images/oliver.jpg"
+    },
+    {
+      "employeeId": "E040",
+      "employeeName": "Sofia Nelson",
+      "department": "Finance",
+      "salary": 75000,
+      "age": 32,
+      "email": "sofia.nelson@example.com",
+      "phone": "555-2220",
+      "hireDate": "2017-07-12",
+      "imageUrl": "https://example.com/images/sofia.jpg"
+    }
+  ]
+}

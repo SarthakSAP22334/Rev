@@ -1,0 +1,28 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:f="sap.ui.layout.form" xmlns:core="sap.ui.core" xmlns:t="sap.ui.table" controllerName="mawai.ui5.four.controller.View2">
+    <Page title="{name} - {type}" showNavButton="true" navButtonPress="onBack">
+        <content>
+            <ObjectHeader title="{name}" number="{price}" icon="{imageUrl}" intro="{type}" numberUnit="{currency}"></ObjectHeader>
+            <IconTabBar >
+                <items>
+                    <IconTabFilter icon="sap-icon://warning" text="First Tab">
+                       <core:Fragment fragmentName="mawai.ui5.four.fragments.moreInfo" type="XML"></core:Fragment>
+                    </IconTabFilter>
+                    <IconTabFilter icon="sap-icon://supplier" text="Second Tab">
+                        <core:Fragment fragmentName="mawai.ui5.four.fragments.supplier" type="XML"></core:Fragment>
+
+                    </IconTabFilter>
+                    <IconTabFilter icon="sap-icon://home" text="Third Tab">
+                       <core:Fragment fragmentName="mawai.ui5.four.fragments.cities" type="XML"></core:Fragment>
+                    </IconTabFilter>
+                </items>
+            </IconTabBar>
+        </content>
+        <footer>
+            <Toolbar >
+                <ToolbarSpacer /> 
+                    <Button text="Save" type="Accept" press="onSave"/>
+                    <Button text="Cancel" type="Reject" press="onCancel"></Button>                 
+            </Toolbar>
+        </footer>
+    </Page>
+</mvc:View>
